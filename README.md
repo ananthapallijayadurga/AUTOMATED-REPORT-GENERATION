@@ -12,4 +12,4 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
-API integration and data visualization using Python for Codetech IT Solutions Pvt Ltd
+Automated report generation using Python for data processing and visualization for Codetech IT Solutions Pvt Ltd
