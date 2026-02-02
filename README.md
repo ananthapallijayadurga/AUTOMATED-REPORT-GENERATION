@@ -86,7 +86,6 @@ pip install pandas matplotlib seaborn openpyxl reportlab
 Run the Script:
 
 python report.py
-weather.pdf
 
 Provide Input Data: Place the source data (CSV/Excel) in the specified folder or define the path in the script.
 
